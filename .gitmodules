@@ -1,0 +1,9 @@
+[submodule ".config/nvim"]
+	path = .config/nvim
+	url = git@github.com:carlosthe19916/nvim.git
+[submodule ".config/alacritty/themes"]
+	path = .config/alacritty/themes
+	url = git@github.com:alacritty/alacritty-theme.git
+[submodule ".config/alacritty/themes-tokyonight-nvim"]
+	path = .config/alacritty/themes-tokyonight-nvim
+	url = git@github.com:folke/tokyonight.nvim.git
