@@ -41,11 +41,8 @@ dotfiles checkout # populates dotfiles to their respective locations
 ```
 
 ```bash
-cd ~/.config/nvim
-```
-
-```bash
-dotfiles submodule update # clones the submodule nvim which may not happen automatically
+dotfiles submodule init
+dotfiles submodule update # clones the submodules
 ```
 
 ## usage
