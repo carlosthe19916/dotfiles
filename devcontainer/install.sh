@@ -1,5 +1,4 @@
-mkdir -p $HOME/.local/state
-mkdir -p $HOME/.local/share
+#!/bin/bash
 
 sudo chown -R $USER:$USER $HOME/.npm
 sudo chown -R $USER:$USER $HOME/.local
